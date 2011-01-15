@@ -3,7 +3,7 @@ container {
 }
 
 body {
-  background: #cff;
+  background: #cccc99;
 }
 
 header {
@@ -29,17 +29,17 @@ section h1 {
 /* Links */
 
 a {
-  color: #09c;
+  color: #E80000;
   text-decoration: none;
 }
 
 a:hover {
-  color: #069;
+  color: #D80000;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #069;
+  color: #D80000;
 }
 /* Navigation */
 
@@ -70,7 +70,7 @@ nav ul li a {
 }
 
 nav ul li a:visited {
-  color: #09c;
+  color: #D80000;
 }
 
 nav ul li a:hover {
